@@ -17,19 +17,19 @@ export default function Sproduk() {
                             <ul class="my-4 space-y-3">
 
                                 <li>
-                                    <a href="/chat" class="flex items-center p-3 text-base  text-gray-900 rounded-lg  hover:bg-blue-600 group hover:shadow bg-[#00479c] dark:text-white">
+                                    <a href="/chat" class="flex items-center p-3 text-base  rounded-lg  hover:bg-blue-600 group hover:shadow bg-[#00479c] text-white">
                                         <img className='w-14 rounded-full' src='https://img.freepik.com/free-vector/industrial-fish-farming-isometric_1284-69321.jpg?w=740&t=st=1695903338~exp=1695903938~hmac=618b671f141e2009b84470226301d382e66766e9b3510c45c7608d683375f9a4' />
                                         <span class="flex-1 ml-3 whitespace-nowrap">Produk Budi Daya Ikan</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="/form" class="flex items-center p-3 text-base  text-gray-900 rounded-lg  hover:bg-blue-600 group hover:shadow bg-[#00479c] dark:text-white">
+                                    <a href="/form" class="flex items-center p-3 text-base  rounded-lg  hover:bg-blue-600 group hover:shadow bg-[#00479c] text-white">
                                         <img className='w-14 rounded-full' src='https://img.freepik.com/free-vector/industrial-seafood-fish-farm-indoor-aquaculture-facility-isometric-interior-view-with-cutout-roof-wall-sections-vector-illustration_1284-69665.jpg?w=740&t=st=1695903064~exp=1695903664~hmac=f76dfddfbe203d08e3c22a3c12652c78ded520d6eb46bf95f56dfc88614d6dfb' />
                                         <span class="flex-1 ml-3 whitespace-nowrap">Praktek Kegiatan</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="/chat" class="flex items-center p-3 text-base  text-gray-900 rounded-lg  hover:bg-blue-600 group hover:shadow bg-[#00479c] dark:text-white">
+                                    <a href="/chat" class="flex items-center p-3 text-base  trounded-lg  hover:bg-blue-600 group hover:shadow bg-[#00479c] text-white">
                                         <img className='w-14 rounded-full' src='https://img.freepik.com/premium-vector/industrial-fishing-isometric-view_1284-69465.jpg?w=740' />
                                         <span class="flex-1 ml-3 whitespace-nowrap">Pelatihan Budi Daya</span>
                                     </a>
