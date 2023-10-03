@@ -12,25 +12,25 @@ export default function Sproduk() {
                         </div>
                         <div class="flex flex-col items-center mb-14">
                             <h5 class="mt-0 lg:mt-5 text-xl font-semibold text-gray-900 md:text-2xl mb-2">
-                                Menu Produk
+                                Layanan Produk
                             </h5>
                             <ul class="my-4 space-y-6 lg:space-y-3 w-52 lg:w-auto">
                                 <li>
                                     <a href="/chat" class="h-14 lg:h-auto flex items-center p-3 text-base text-white rounded-lg  hover:bg-blue-600 group hover:shadow bg-[#00479c]">
                                         <img className='w-10 lg:w-14 rounded-full' src='https://img.freepik.com/free-vector/industrial-fish-farming-isometric_1284-69321.jpg?w=740&t=st=1695903338~exp=1695903938~hmac=618b671f141e2009b84470226301d382e66766e9b3510c45c7608d683375f9a4' />
-                                        <span class="flex-1 ml-3 text-sm lg:text-lg">Produk Budi Daya Ikan</span>
+                                        <span class="flex-1 ml-3 text-sm lg:text-base">Produk Budi Daya Ikan</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="/form" class="h-14 lg:h-auto flex items-center p-3 text-base text-white rounded-lg  hover:bg-blue-600 group hover:shadow bg-[#00479c]">
                                         <img className='w-10 lg:w-14 rounded-full' src='https://img.freepik.com/free-vector/industrial-seafood-fish-farm-indoor-aquaculture-facility-isometric-interior-view-with-cutout-roof-wall-sections-vector-illustration_1284-69665.jpg?w=740&t=st=1695903064~exp=1695903664~hmac=f76dfddfbe203d08e3c22a3c12652c78ded520d6eb46bf95f56dfc88614d6dfb' />
-                                        <span class="flex-1 ml-3 text-sm lg:text-lg">Praktek Kegiatan</span>
+                                        <span class="flex-1 ml-3 text-sm lg:text-base">Praktek Kegiatan</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="/chat" class="h-14 lg:h-auto flex items-center p-3 text-base text-white rounded-lg  hover:bg-blue-600 group hover:shadow bg-[#00479c]">
                                         <img className='w-10 lg:w-14 rounded-full' src='https://img.freepik.com/premium-vector/industrial-fishing-isometric-view_1284-69465.jpg?w=740' />
-                                        <span class="flex-1 ml-3 text-sm lg:text-lg">Pelatihan Budi Daya</span>
+                                        <span class="flex-1 ml-3 text-sm lg:text-base">Pelatihan Budi Daya</span>
                                     </a>
                                 </li>
 

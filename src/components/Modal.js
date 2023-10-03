@@ -11,7 +11,7 @@ const Modal = ({ isVisible, onClose, childern }) => {
         <button className='text-white text-xl place-self-end' onClick={() => onClose()}>X</button>
         <div className='bg-white p-2 rounded'>{childern}
           <div className='py-6 px-6 lg:px-8 text-left'>
-            <h3 className='text-xl   text-gray-900 mb-5'>Buku Tamu</h3>
+            <h3 className='text-xl text-gray-900 mb-5'>Buku Tamu</h3>
             <form class="space-y-6" action="#">
               <div>
                 <label for="email" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-900">Email</label>
@@ -23,8 +23,8 @@ const Modal = ({ isVisible, onClose, childern }) => {
               </div>
               <div class="grid md:grid-cols-2 md:gap-6">
                 <div>
-                  <label for="email" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-900">No Telpon</label>
-                  <input type="email" name="email" id="email" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 dark:focus:border-blue-500 block w-full p-2.5 dark:bg-gray-200 dark:border-gray-400 dark:placeholder-gray-400 dark:text-black" placeholder="No Telpon" required />
+                  <label for="no_telp" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-900">No Telpon</label>
+                  <input type="number" name="no_telp" id="no_telp" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 dark:focus:border-blue-500 block w-full p-2.5 dark:bg-gray-200 dark:border-gray-400 dark:placeholder-gray-400 dark:text-black" placeholder="No Telpon" required />
                 </div>
                 <div class="relative z-0 w-full mb-6 group">
                   <label for="countries" class="block mb-2 text-sm font-medium text-gray-900 dark:text-black">Keperluan</label>

@@ -20,19 +20,19 @@ export default function Sjasa() {
                                 <li>
                                     <a href="/chat" class="h-14 lg:h-auto flex items-center p-3 text-base text-white rounded-lg  hover:bg-blue-600 group hover:shadow bg-[#00479c]">
                                         <img className='w-10 lg:w-14 rounded-full' src='https://img.freepik.com/free-vector/flat-design-illustration-customer-support_23-2148887720.jpg?w=740&t=st=1695904007~exp=1695904607~hmac=6e755a00970d5cec78a24b8c3a24ba82c1256845abe823251f31f85b31ce00a6' />
-                                        <span class="flex-1 ml-3 text-sm lg:text-lg">Konsultasi</span>
+                                        <span class="flex-1 ml-3 text-sm lg:text-base">Konsultasi</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="/chat" class="h-14 lg:h-auto flex items-center p-3 text-base text-white rounded-lg  hover:bg-blue-600 group hover:shadow bg-[#00479c]">
                                         <img className='w-10 lg:w-14 rounded-full' src='https://img.freepik.com/free-vector/illustrated-woman-being-intern-company_23-2148726151.jpg?w=740&t=st=1695903910~exp=1695904510~hmac=2db1c3abee4ee94586e87738151c12d1fabb4e6fd7333a69f6cba48b39f4cf96' />
-                                        <span class="flex-1 ml-3 text-sm lg:text-lg">Bimbingan Teknis</span>
+                                        <span class="flex-1 ml-3 text-sm lg:text-base">Bimbingan Teknis</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="/chat" class="h-14 lg:h-auto flex items-center p-3 text-base text-white rounded-lg  hover:bg-blue-600 group hover:shadow bg-[#00479c]">
                                         <img className='w-10 lg:w-14 rounded-full' src='https://img.freepik.com/free-vector/city-hall-concept-illustration_114360-17135.jpg?w=740&t=st=1695904090~exp=1695904690~hmac=ab641da083e773f73593b799fea1b0d83a423f2cca9e47c979a1324281af1ba9' />
-                                        <span class="flex-1 ml-3 text-sm lg:text-lg">Penggunaan Gedung dan Bangunan</span>
+                                        <span class="flex-1 ml-3 text-sm lg:text-base">Penggunaan Gedung dan Bangunan</span>
                                     </a>
                                 </li>
 
