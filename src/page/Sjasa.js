@@ -13,7 +13,7 @@ export default function Sjasa() {
                         </div>
                         <div class="flex flex-col items-center mb-10 lg:mb-14">
                             <h5 class="mt-0 lg:mt-5 text-xl font-semibold text-gray-900 md:text-2xl mb-2">
-                                Menu Jasa
+                                Layanan Jasa
                             </h5>
                             <ul class="my-4 space-y-6 lg:space-y-3 w-60 lg:w-auto">
 
