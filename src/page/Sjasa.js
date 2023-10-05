@@ -7,12 +7,12 @@ export default function Sjasa() {
     return (
 
 
-        <div className='px-2 lg:px-24 pt-40 lg:pt-28 font-poppins'>
+        <div className='px-2 lg:px-24 pt-24 lg:pt-20 font-poppins'>
             <div className='container'>
                 <div className='flex'>
                     <div className='w-[19rem] lg:w-1/2 items-center bg-gray-300 mx-auto rounded-2xl shadow-lg'>
                         <div className='relative mt-10 flex items-center justify-center'>
-                            <img src={hero} className='absolute left-[-5vh] lg:left-auto lg:right-[-20vh] top-[-110px] lg:top-8 h-40 lg:h-96 object-cover' />
+                            <img src={hero} className='absolute left-[-3vh] lg:left-auto lg:right-[-20vh] top-[-110px] lg:top-8 h-36 lg:h-96 object-cover' />
                         </div>
                         <div class="flex flex-col items-center mb-10 lg:mb-14">
                             <h5 class="mt-0 lg:mt-5 text-xl font-semibold text-gray-900 md:text-2xl mb-2">
@@ -52,7 +52,7 @@ export default function Sjasa() {
                                 </li>
 
                             </ul>
-                            <a href="/"><BsArrowLeftShort className='bg-white  text-3xl  rounded-full absolute  border-2 border-blue-700 cursor-pointer' /></a>
+                            <a href="/"><BsArrowLeftShort className='bg-white text-3xl rounded-full absolute border-2 border-blue-700 cursor-pointer ml-[-10px] lg:ml-0' /></a>
 
                         </div>
                     </div>
