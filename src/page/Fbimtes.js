@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Fpengajuan() {
+export default function Fbimtes() {
     return (
         <div>
             <div className='font-poppins fixed inset-0 bg-black bg-opacity-25 backdrop-blur-sm flex justify-center items-center' >
@@ -8,7 +8,7 @@ export default function Fpengajuan() {
                     <button className='text-white text-xl place-self-end' ><a href="/jasa">X</a></button>
                     <div className='bg-white p-2 rounded'>
                         <div className='py-6 px-6 lg:px-8 text-left '>
-                            <h3 className='text-xl   text-gray-900 mb-10 text-center font-bold'>Form Pengajuan Kegiatan Praktek</h3>
+                            <h3 className='text-xl   text-gray-900 mb-10 text-center font-bold'>Form Bimbingan Teknis / Kunjungan</h3>
                             <form class="space-y-6" action="#">
                                 <div>
                                     <label for="name" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-900">Nama</label>
@@ -30,7 +30,7 @@ export default function Fpengajuan() {
                                 <div class="mb-2">
                                     <label
                                         for="formFile"
-                                class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-900">Upload File Surat Pengajuan Kegiatan Praktek</label>
+                                class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-900">Upload File </label>
                                     <input
                                         class="relative m-0 block w-full min-w-0 flex-auto rounded-lg border border-solid border-neutral-300 bg-clip-padding px-3 py-[0.32rem] text-base font-normal text-neutral-700 transition duration-300 ease-in-out file:-mx-3 file:-my-[0.32rem] file:overflow-hidden file:rounded-none file:border-0 file:border-solid file:border-inherit file:bg-neutral-100 file:px-3 file:py-[0.32rem] file:text-neutral-700 file:transition file:duration-150 file:ease-in-out file:[border-inline-end-width:1px] file:[margin-inline-end:0.75rem] hover:file:bg-neutral-300 focus:border-primary focus:text-neutral-700 focus:shadow-te-primary focus:outline-none"
                                         type="file"

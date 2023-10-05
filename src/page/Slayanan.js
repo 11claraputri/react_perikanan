@@ -1,4 +1,5 @@
 import React from 'react'
+import { BsArrowLeftShort } from "react-icons/bs";
 import hero from "../assets/maskot.png"
 
 export default function Slayanan() {
@@ -42,6 +43,7 @@ export default function Slayanan() {
                                 </li>
 
                             </ul>
+                            <a href="/"><BsArrowLeftShort className='bg-white  text-3xl  rounded-full absolute  border-2 border-blue-700 cursor-pointer' /></a>
 
                         </div>
                     </div>

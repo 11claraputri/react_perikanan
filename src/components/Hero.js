@@ -17,7 +17,7 @@ export default function Hero() {
           </div>
           <div className='grid grid-cols-1 mr-80 md:grid-cols-2 lg:grid-cols-3 '>
             <div className='flex flex-col  items-center border-2 border-blue-400 hover:border-blue-600 hover:shadow-xl bg-white rounded-lg shadow-md  m-6 overflow-hidden sm:w-48  w-64 xs:w-20 '>
-              <a href='/Produk' title='https://img.freepik.com/free-vector/hand-drawn-swordfish-cartoon-illustration_52683-129577.jpg?w=740&t=st=1693973135~exp=1693973735~hmac=4615500401a5114b94ece573fd7bfca1ed46159dd42cc41148896ca511f8f583'>
+              <a href='/produk' title='https://img.freepik.com/free-vector/hand-drawn-swordfish-cartoon-illustration_52683-129577.jpg?w=740&t=st=1693973135~exp=1693973735~hmac=4615500401a5114b94ece573fd7bfca1ed46159dd42cc41148896ca511f8f583'>
                 <img src='https://graphicriver.img.customer.envatousercontent.com/files/151849410/Catfish+Cartoon_PREVIEW.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=590&s=2de87fcbc20035aee4bcc44445285d76'
                   className='h-28 m-6 mx-auto ' />
                 <h2 className=' text-center px-2 pb-4'>Layanan Produk/Praktek</h2>
@@ -25,14 +25,14 @@ export default function Hero() {
 
             </div>
             <div className='flex flex-col items-center border-2 border-blue-400 hover:border-blue-600 hover:shadow-xl bg-white rounded-lg shadow-md m-6 overflow-hidden sm:w-48 w-64 xs:w-20'>
-              <a href='/Jasa' title='https://img.freepik.com/free-vector/hand-drawn-tuna-cartoon-illustration_52683-129574.jpg?w=740&t=st=1693973261~exp=1693973861~hmac=53bf0c4ea86b322ec0684130e81e96ea61ad60a0ca0a375f5c78683ab41364fc'>
+              <a href='/jasa' title='https://img.freepik.com/free-vector/hand-drawn-tuna-cartoon-illustration_52683-129574.jpg?w=740&t=st=1693973261~exp=1693973861~hmac=53bf0c4ea86b322ec0684130e81e96ea61ad60a0ca0a375f5c78683ab41364fc'>
                 <img src='https://img.freepik.com/free-vector/chatbot-customer-service-abstract-concept_335657-3037.jpg?w=740&t=st=1695816875~exp=1695817475~hmac=28e128366540b20c7bf57a911b67788daf5fcc2d9e357c57019ab523859cfd2c'
                   className='h-28 m-6  ' />
                 <h2 className='text-center px-2 pb-4'>Layanan Jasa</h2>
               </a>
             </div>
             <div className='flex flex-col  items-center border-2 border-blue-400 hover:border-blue-600 hover:shadow-xl bg-white rounded-lg shadow-md  m-6 overflow-hidden sm:w-48 w-64 xs:w-20'>
-              <a href='/Layanan' title='https://img.freepik.com/free-vector/hand-drawn-crawfish-cartoon-illustration_52683-129571.jpg?w=740&t=st=1693973311~exp=1693973911~hmac=06708902aff3f97156ef9537a178ec3742f308fd8951bbd65dbdcfd98faf370c'>
+              <a href='/layanan' title='https://img.freepik.com/free-vector/hand-drawn-crawfish-cartoon-illustration_52683-129571.jpg?w=740&t=st=1693973311~exp=1693973911~hmac=06708902aff3f97156ef9537a178ec3742f308fd8951bbd65dbdcfd98faf370c'>
                 <img src='https://img.freepik.com/premium-vector/scientist-work-characters-conducting-experiments-lab_113065-662.jpg?w=826'
                   className='h-28 m-6 mx-auto' />
                 <h2 className='text-center px-2 pb-4'>Layanan Pengujian Laboratorium</h2>

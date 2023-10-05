@@ -7,6 +7,8 @@ import Produk from './page/Produk';
 import Chat1 from './components/Chat1';
 import Fpengajuan from './page/Fpengajuan';
 import './App.css';
+import Fbimtes from "./page/Fbimtes";
+import Fbudidaya from "./page/Fbudidaya";
 
 function App() {
 
@@ -21,8 +23,9 @@ function App() {
        <Route path='/produk' component={Produk} />
        <Route path='/chat' component={Chat1} />
        <Route path='/form' component={Fpengajuan} />
+       <Route path='/formBim' component={Fbimtes} />
+       <Route path='/formBuday' component={Fbudidaya} />
 
-       
      </Switch>
    </BrowserRouter>
       
