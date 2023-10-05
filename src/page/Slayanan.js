@@ -43,7 +43,7 @@ export default function Slayanan() {
                                 </li>
 
                             </ul>
-                            <a href="/"><BsArrowLeftShort className='bg-white text-3xl rounded-full absolute border-2 border-blue-700 cursor-pointer ml-[-10px] lg:ml-0' /></a>
+                            <a href="/"><BsArrowLeftShort className='bg-white text-3xl rounded-full absolute border-2 border-blue-700 cursor-pointer ml-[-10px]' /></a>
 
                         </div>
                     </div>

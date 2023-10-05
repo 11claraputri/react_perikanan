@@ -23,9 +23,20 @@ export default function Sproduk() {
                                         <span class="flex-1 ml-3 text-sm lg:text-base">Produk Budi Daya Ikan</span>
                                     </a>
                                 </li>
-
+                                <li>
+                                    <a href="/form" class="h-14 lg:h-auto flex items-center p-3 text-base text-white rounded-lg  hover:bg-blue-600 group hover:shadow bg-[#00479c]">
+                                        <img className='w-10 lg:w-14 rounded-full' src='https://img.freepik.com/free-vector/industrial-seafood-fish-farm-indoor-aquaculture-facility-isometric-interior-view-with-cutout-roof-wall-sections-vector-illustration_1284-69665.jpg?w=740&t=st=1695903064~exp=1695903664~hmac=f76dfddfbe203d08e3c22a3c12652c78ded520d6eb46bf95f56dfc88614d6dfb' />
+                                        <span class="flex-1 ml-3 text-sm lg:text-base">Praktek Kegiatan</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/formBuday" class="h-14 lg:h-auto flex items-center p-3 text-base text-white rounded-lg  hover:bg-blue-600 group hover:shadow bg-[#00479c]">
+                                        <img className='w-10 lg:w-14 rounded-full' src='https://img.freepik.com/premium-vector/industrial-fishing-isometric-view_1284-69465.jpg?w=740' />
+                                        <span class="flex-1 ml-3 text-sm lg:text-base">Pelatihan Budi Daya</span>
+                                    </a>
+                                </li>
                             </ul>
-                            <a href="/"><BsArrowLeftShort className='bg-white text-3xl rounded-full absolute border-2 border-blue-700 cursor-pointer ml-[-10px] lg:ml-0' /></a>
+                            <a href="/"><BsArrowLeftShort className='bg-white text-3xl rounded-full absolute border-2 border-blue-700 cursor-pointer ml-[-10px]' /></a>
 
                         </div>
                     </div>

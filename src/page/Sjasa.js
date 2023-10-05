@@ -7,7 +7,7 @@ export default function Sjasa() {
     return (
 
 
-        <div className='px-2 lg:px-24 pt-24 lg:pt-20 font-poppins'>
+        <div className='px-2 lg:px-24 pt-40 lg:pt-20 font-poppins'>
             <div className='container'>
                 <div className='flex'>
                     <div className='w-[19rem] lg:w-1/2 items-center bg-gray-300 mx-auto rounded-2xl shadow-lg'>
@@ -33,18 +33,6 @@ export default function Sjasa() {
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="/form" class="h-14 lg:h-auto flex items-center p-3 text-base text-white rounded-lg  hover:bg-blue-600 group hover:shadow bg-[#00479c]">
-                                        <img className='w-10 lg:w-14 rounded-full' src='https://img.freepik.com/free-vector/industrial-seafood-fish-farm-indoor-aquaculture-facility-isometric-interior-view-with-cutout-roof-wall-sections-vector-illustration_1284-69665.jpg?w=740&t=st=1695903064~exp=1695903664~hmac=f76dfddfbe203d08e3c22a3c12652c78ded520d6eb46bf95f56dfc88614d6dfb' />
-                                        <span class="flex-1 ml-3 text-sm lg:text-base">Praktek Kegiatan</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="/formBuday" class="h-14 lg:h-auto flex items-center p-3 text-base text-white rounded-lg  hover:bg-blue-600 group hover:shadow bg-[#00479c]">
-                                        <img className='w-10 lg:w-14 rounded-full' src='https://img.freepik.com/premium-vector/industrial-fishing-isometric-view_1284-69465.jpg?w=740' />
-                                        <span class="flex-1 ml-3 text-sm lg:text-base">Pelatihan Budi Daya</span>
-                                    </a>
-                                </li>
-                                <li>
                                     <a href="/chat" class="h-14 lg:h-auto flex items-center p-3 text-base text-white rounded-lg  hover:bg-blue-600 group hover:shadow bg-[#00479c]">
                                         <img className='w-10 lg:w-14 rounded-full' src='https://img.freepik.com/free-vector/city-hall-concept-illustration_114360-17135.jpg?w=740&t=st=1695904090~exp=1695904690~hmac=ab641da083e773f73593b799fea1b0d83a423f2cca9e47c979a1324281af1ba9' />
                                         <span class="flex-1 ml-3 text-sm lg:text-base">Penggunaan Gedung dan Bangunan</span>
@@ -52,7 +40,7 @@ export default function Sjasa() {
                                 </li>
 
                             </ul>
-                            <a href="/"><BsArrowLeftShort className='bg-white text-3xl rounded-full absolute border-2 border-blue-700 cursor-pointer ml-[-10px] lg:ml-0' /></a>
+                            <a href="/"><BsArrowLeftShort className='bg-white text-3xl rounded-full absolute border-2 border-blue-700 cursor-pointer ml-[-10px]' /></a>
 
                         </div>
                     </div>
