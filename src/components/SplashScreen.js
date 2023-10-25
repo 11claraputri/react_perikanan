@@ -16,6 +16,7 @@ function SplashScreen() {
       <div style={{ backgroundColor: blueBackgroundColor }} className='w-full h-screen flex flex-col justify-center items-center '>
         <h1 style={titleStyle} className='text-center text-white text-2xl font-bold'>SiPasti</h1>
         <h1 style={titleStyle} className='text-center text-white text-sm font-bold'>Sistem Informasi Pelayanan Satu Pintu Terintegrasi</h1>
+        <h1 style={titleStyle} className='text-center text-white text-sm font-bold'>Web Enhanced</h1>
       </div>
     </div>
   );
